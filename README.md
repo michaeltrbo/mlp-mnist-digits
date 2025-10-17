@@ -27,6 +27,13 @@ Conceptually:
 Both are just different-sized multilayer perceptrons (MLPs).  
 The same feedforward + backpropagation process applies, only now we’re training on thousands of examples instead of four.
 
+<p align="center">
+  <img src="public/mnist-mlp.png" alt="MLP Architecture Diagram for MNIST" width="600">
+  <br>
+  <em>Visualization of my MLP architecture for the MNIST dataset</em>
+</p>
+
+
 ---
 
 ## PyTorch vs NumPy
